@@ -1,6 +1,6 @@
 <h1>Hi, I'm Suraj!
 
-<h2>👨‍💻 Projects:</h2>
+<h2>🧑🏽‍💻 Projects:</h2>
 
 <h2> 🤳 Media:</h2>
 
