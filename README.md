@@ -2,9 +2,18 @@
 
 <h2>🧑🏽‍💻 Projects:</h2>
 
-- <b>Games</b>
-  - [Connect 4 (2023)](https://github.com/SurajP-Py/Connect-4)
-  - [Tic Tac Toe (2023)](https://github.com/SurajP-Py/Tic-Tac-Toe)
+- <b>Completed: </b>
+  - [Connect 4 (2023)](https://github.com/SurajP-Py/Connect-4) - 2-player versus game from Winter break of Junior year
+  - [Tic Tac Toe (2023)](https://github.com/SurajP-Py/Tic-Tac-Toe) - 2-player versus game from 2nd semester of Junior year (*available soon*)
+ 
+- <b>I'm currently working on: </b>
+  - Simple [Auto Clicker](https://en.wikipedia.org/wiki/Auto_clicker) Software (test on [cpstest.org](https://cpstest.org/))
+ 
+- <b>Future Projects: </b>
+  - Local Multi-Player [Poker](https://www.calstatela.edu/sites/default/files/poker-hand-cheat-sheet.pdf)
+  - Local Multi-Player Cowry ([Indian Board Game](https://en.wikipedia.org/wiki/Chowka_bhara))
+  - Remake of *[Quick, Draw!](https://quickdraw.withgoogle.com/)*
+  - Basic [Object Detection](https://en.wikipedia.org/wiki/Object_detection) System
 
 <h2> 🤳 Media:</h2>
 
