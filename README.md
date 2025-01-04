@@ -2,6 +2,10 @@
 
 <h2>🧑🏽‍💻 Projects:</h2>
 
+- <b>Games</b>
+  - [Connect 4 (2023)](https://github.com/SurajP-Py/Connect-4)
+  - [Tic Tac Toe (2023)](https://github.com/SurajP-Py/Tic-Tac-Toe)
+
 <h2> 🤳 Media:</h2>
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
