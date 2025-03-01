@@ -8,7 +8,7 @@
   - [Optima](https://github.com/SurajP-Py/Optima) - A singleplayer game where you compete with an [A* Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) to find the most optimal path
  
 - <b>I'm currently working on: </b>
-  - Physics Engine
+  - A handful of Machine Learning projects
  
 - <b>Future Projects: </b>
   - Local Multi-Player [Poker](https://www.calstatela.edu/sites/default/files/poker-hand-cheat-sheet.pdf)
