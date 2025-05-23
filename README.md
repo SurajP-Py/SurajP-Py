@@ -3,19 +3,8 @@
 <h2>🧑🏽‍💻 Projects:</h2>
 
 - <b>Completed: </b>
-  - [Connect 4 (2023)](https://github.com/SurajP-Py/Connect-4) - 2-player versus game from Winter break of Junior year
-  - [Tic Tac Toe (2023)](https://github.com/SurajP-Py/Tic-Tac-Toe) - 2-player versus game from 2nd semester of Junior year (*unavailable right now*)
   - [Optima](https://github.com/SurajP-Py/Optima) - A singleplayer game where you compete with an [A* Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) to find the most optimal path
- 
-- <b>I'm currently working on: </b>
-  - A handful of Machine Learning projects
- 
-- <b>Future Projects: </b>
-  - Local Multi-Player [Poker](https://www.calstatela.edu/sites/default/files/poker-hand-cheat-sheet.pdf)
-  - Local Multi-Player Cowry ([Indian Board Game](https://en.wikipedia.org/wiki/Chowka_bhara))
-  - Remake of *[Quick, Draw!](https://quickdraw.withgoogle.com/)*
-  - Basic [Object Detection](https://en.wikipedia.org/wiki/Object_detection) System
-
+  
 <h2> 🤳 Media:</h2>
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
