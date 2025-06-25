@@ -4,6 +4,7 @@
 
 - <b>Completed: </b>
   - [Optima](https://github.com/SurajP-Py/Optima) - A singleplayer game where you compete with an [A* Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) to find the most optimal path
+  - [Content Farm](https://github.com/SurajP-Py/Content-Farm)- A Python project that automatically generates low-effort Instagram Reels
   
 <h2> 🤳 Media:</h2>
 
