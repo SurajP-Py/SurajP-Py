@@ -5,6 +5,7 @@
 - <b>Completed: </b>
   - [Optima](https://github.com/SurajP-Py/Optima) - A singleplayer game where you compete with an [A* Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) to find the most optimal path
   - [Content Farm](https://github.com/SurajP-Py/Content-Farm)- A Python project that automatically generates low-effort Instagram Reels
+  - [Number Drawing Recognition](https://github.com/SurajP-Py/ndr) - An ML Python project that allows users to train/test a model to recognize numbers in a 28x28 grid
   
 <h2> 🤳 Media:</h2>
 
